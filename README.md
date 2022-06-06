@@ -1,17 +1,34 @@
 - 👋 Hi, I’m @JozehanGrobler
+- ⚙️ I am a Software Engineer
 - 👀 I’m interested in good music, good coffee, good code
-- 🌱 I’m currently learning docker
-- 💞️ I’m looking to collaborate on formik-material-ui
 - 🤪 Tech worked with
   - Node
+    - Express
+    - Typescript
+    - Apollo Graphql
   - .Net
+    - Framework
+    - Core
+    - EF Core
+    - HotChocolate
   - React
     - Formik
     - Material UI
     - Yup
     - Three
     - Formik Material UI 🤨
-
+  - Git
+    - Github
+    - Gitlab
+    - Devops
+  - CI/CD
+    - Gitlab
+    - Devops
+  - Whats next
+    - Go
+    - Opensourcing
+    - RoR
+    - Open to suggestions 😆
 <!---
 JozehanGrobler/JozehanGrobler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
