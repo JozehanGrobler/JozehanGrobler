@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @JozehanGrobler
 - ⚙️ I am a Software Engineer
 - 👀 I’m interested in good music, good coffee, good code
+**About Me:**
+* I am passionate about hearing about problems people encounter, and help them solve the problems in interesting ways*
 - 🤪 Tech worked with
   - Node
     - Express
@@ -17,18 +19,45 @@
     - Yup
     - Three
     - Formik Material UI 🤨
+  - React Native
+    - Expo
+      - Router
+      - Camera
+  - Flutter Windows Native
   - Git
     - Github
     - Gitlab
     - Devops
+  - Package managers
+    - Nuget
+    - npm
   - CI/CD
     - Gitlab
     - Devops
+  - Containerization
+    - Docker
+  - Hosting
+    - Firebase
+    - Digital Ocean (Kubernetes)
+    - Azure
+  - Current Projects
+    - ClickUp Api
+    - Inventory Management Native application
+    - Quickbooks integrations
+    - ClickUp Integrations
   - Whats next
-    - Go
-    - Opensourcing
-    - RoR
+    - Nuget package registry
     - Open to suggestions 😆
+  ***Project History***
+- ORD (Native Insurance Compare tool)
+- Lead Home (Real estate advertising and comparison tool)
+- LOC8 (Vehicle search engine tool)
+- SSP (Anglo internal HR tool)
+- Deckmans (Anglo Iron Ore vessel loading tracking system)
+- ILOPS (Anglo Iron Ore Train planning Loading and Optimization tool)
+- Young Engineers (Windows native application)
+- Quickbooks ClickUp integration
+- ETS Store (Inventory management system)
 <!---
 JozehanGrobler/JozehanGrobler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
